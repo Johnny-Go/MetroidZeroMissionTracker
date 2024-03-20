@@ -1,0 +1,13 @@
+﻿{
+  "name": "Metroid: Zero Mission Randomizer",
+  "game_name": "Metroid: Zero Mission Randomizer",
+  "platform": "gba",
+  "package_version": "1.0.0",
+  "package_uid": "mzm_rando_johnny",
+  "author": "JohnnyGo",
+  "variants": {
+    "standard": {
+      "display_name": "Item Tracker"
+    }
+  }
+}

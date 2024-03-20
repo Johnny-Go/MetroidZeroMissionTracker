@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Long Beam",
+    "type": "toggle",
+    "img": "images/LongBeam.png",
+    "codes": "long"
+  },
+  {
+    "name": "Charge Beam",
+    "type": "toggle",
+    "img": "images/ChargeBeam.png",
+    "codes": "charge"
+  },
+  {
+    "name": "Ice Beam",
+    "type": "toggle",
+    "img": "images/IceBeam.png",
+    "codes": "ice"
+  },
+  {
+    "name": "Wave Beam",
+    "type": "toggle",
+    "img": "images/WaveBeam.png",
+    "codes": "wave"
+  },
+  {
+    "name": "Plasma Beam",
+    "type": "toggle",
+    "img": "images/PlasmaBeam.png",
+    "codes": "plasma"
+  },
+  {
+    "name": "Morph Ball",
+    "type": "toggle",
+    "img": "images/MorphBall.png",
+    "codes": "morph"
+  },
+  {
+    "name": "Bomb",
+    "type": "toggle",
+    "img": "images/NormalBombs.png",
+    "codes": "normalbomb"
+  },
+  {
+    "name": "Power Bomb",
+    "type": "toggle",
+    "img": "images/PowerBombTank.png",
+    "codes": "powerbomb"
+  },
+  {
+    "name": "Missile",
+    "type": "toggle",
+    "img": "images/MissileTank.png",
+    "codes": "missile"
+  },
+  {
+    "name": "Super Missile",
+    "type": "toggle",
+    "img": "images/SuperMissileTank.png",
+    "codes": "super"
+  },
+  {
+    "name": "Power Grip",
+    "type": "toggle",
+    "img": "images/PowerGrip.png",
+    "codes": "grip"
+  },
+  {
+    "name": "Speed Booster",
+    "type": "toggle",
+    "img": "images/SpeedBooster.png",
+    "codes": "speed"
+  },
+  {
+    "name": "Hi-Jump Boots",
+    "type": "toggle",
+    "img": "images/HiJump.png",
+    "codes": "jump"
+  },
+  {
+    "name": "Space Jump",
+    "type": "toggle",
+    "img": "images/SpaceJump.png",
+    "codes": "space"
+  },
+  {
+    "name": "Screw Attack",
+    "type": "toggle",
+    "img": "images/ScrewAttack.png",
+    "codes": "screw"
+  },
+  {
+    "name": "Varia Suit",
+    "type": "toggle",
+    "img": "images/VariaSuit.png",
+    "codes": "varia"
+  },
+  {
+    "name": "Gravity Suit",
+    "type": "toggle",
+    "img": "images/GravitySuit.png",
+    "codes": "gravity"
+  },
+  {
+    "name": "Ridley",
+    "type": "toggle",
+    "img": "images/Ridley.png",
+    "codes": "ridley"
+  },
+  {
+    "name": "Kraid",
+    "type": "toggle",
+    "img": "images/Kraid.png",
+    "codes": "kraid"
+  },
+  {
+    "name": "Mother Brain",
+    "type": "toggle",
+    "img": "images/MotherBrain.png",
+    "codes": "mother"
+  },
+  {
+    "name": "Chozo Test",
+    "type": "toggle",
+    "img": "images/Charlie.png",
+    "codes": "charlie"
+  }
+]
